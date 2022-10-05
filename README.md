@@ -1,1 +1,1 @@
-# WGM
+Najpierw szerokość potem wysokość. 
